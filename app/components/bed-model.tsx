@@ -103,11 +103,11 @@ export default function BedModel({ size, color, railings, evolutiveKit }: BedMod
 
 // Precarica i modelli
 useGLTF.preload([
-  "/models/bed_190x80.gltf",
-  "/models/bed_190x120.gltf",
-  "/models/bed_160x80.gltf",
-  "/models/railings.gltf",
-  "/models/small_legs.gltf",
-  "/models/large_legs.gltf",
+  "/models/senza_sponde_a_terra.gltf",
+  "/models/senza_sponde_a_terra.gltf",
+  "/models/senza_sponde_a_terra.gltf",
+  "/models/senza_sponde_a_terra.gltf",
+  "/models/senza_sponde_a_terra.gltf",
+  "/models/senza_sponde_a_terra.gltf",
 ])
 
